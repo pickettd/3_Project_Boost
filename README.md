@@ -8,7 +8,7 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 In order to start this section you should have either finished [the previous section of this course](https://github.com/CompleteUnityDeveloper2/2_Terminal_Hacker), or be able to complete it's learning outcomes.
 
 # Project 3 - Project Boost
-This is a game inspired by the 1986 classic Thrust. The goal is to battle gravity and avoid obstacles do skillfully pilot your ship from a launch pad to a landing pad. A simple concept with a huge array of gameplay opportunities.
+This is a game inspired by the 1986 classic Thrust. The goal is to battle gravity and avoid obstacles to skillfully pilot your ship from a launch pad to a landing pad. A simple concept with a huge array of gameplay opportunities.
 
 ## This Project's Learning Outcomes
 Basic Particle Effects. Local version control. Create C# scripts. Add Unity Components. Use coordinate systems, origins and anchor points. Create and maniplulate Unity prefabs. Do basic level design. (Ref: PB_CU2)
@@ -18,7 +18,7 @@ This is a Unity project. If you're familiar with source control, then "clone thi
 
 This branch is the course branch, each commit corresponds to a lecture in the course. The current state is our latest progress.
 
-## Video List / Cirriculum
+## Video List / Curriculum
 Here are the video lectures that comprise this section. They are typically about 5-15 minutes long, and each commit contains the exact changes made to the project by the instructor in that video.
 
 ### 1 Welcome To Section 3 ###
