@@ -1,6 +1,6 @@
 
 ## Background
-This project is part of the [The Complete Unity Developer 2.0](https://www.udemy.com/unitycourse2/?couponCode=GITHUB_SPECIAL), the sequal to one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects, our latest teaching techniques. You will benefit from the fact we have already taught over 300,000 students game development, many shipping commercial games as a result.
+This project is part of [The Complete Unity Developer 2.0](https://www.udemy.com/unitycourse2/?couponCode=GITHUB_SPECIAL), the sequel to one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects, our latest teaching techniques. You will benefit from the fact we have already taught over 300,000 students game development, many shipping commercial games as a result.
 
 You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo.
 
